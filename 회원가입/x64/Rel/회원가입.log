@@ -1,0 +1,11 @@
+﻿  Management.cpp
+Management.cpp(26): warning C4267: '초기화 중': 'size_t'에서 'int'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+Management.cpp(144): warning C4267: '초기화 중': 'size_t'에서 'int'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+  main.cpp
+  코드를 생성하고 있습니다.
+  코드를 생성했습니다.
+  2 of 25 functions ( 8.0%) were compiled, the rest were copied from previous compilation.
+    1 functions were new in current compilation
+    0 functions had inline decision re-evaluated but remain unchanged
+  회원가입.vcxproj -> C:\Users\user\Google 드라이브\170120\회원가입\x64\Rel\회원가입.exe
+  회원가입.vcxproj -> C:\Users\user\Google 드라이브\170120\회원가입\x64\Rel\회원가입.pdb (Full PDB)
